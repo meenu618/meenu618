@@ -10,5 +10,8 @@
 meenu618/meenu618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Demo 2024
-This is my demo project in September 2024 
+# Demo 2024
+This is my demo project in September 2024
+
+## My Notebook
+* [Run my colab notebook] (https://github.com/meenu618/meenu618/blob/main/Copy_of_dataSciencenotebook.ipynb)
